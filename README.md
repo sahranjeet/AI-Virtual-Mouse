@@ -15,8 +15,6 @@ OpenCV – for real-time video capture and image processing
 MediaPipe – for hand tracking and gesture recognition
 PyAutoGUI – to control mouse actions programmatically
 Installation
-Clone this repository:
-git clone https://github.com/your-username/AI-Virtual-Mouse.git
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
